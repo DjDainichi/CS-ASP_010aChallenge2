@@ -24,12 +24,12 @@
         <p>
             &nbsp;</p>
         <p>
-            <span class="auto-style1"><strong>First Value</strong></span>
+            <span class="auto-style1"><strong>First Value</strong></span>&nbsp;
             <asp:TextBox ID="firstValueTextBox" runat="server"></asp:TextBox>
         </p>
         <p>
             <span class="auto-style2"><strong>Second Value</strong></span>
-            <asp:TextBox ID="secondValueTextBox" runat="server" OnTextChanged="TextBox2_TextChanged"></asp:TextBox>
+            <asp:TextBox ID="secondValueTextBox" runat="server"></asp:TextBox>
         </p>
         <p>
             &nbsp;</p>
