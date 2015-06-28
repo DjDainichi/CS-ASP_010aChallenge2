@@ -1,0 +1,6 @@
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\010b_Challenge2NS\010b_SimpleCalculator2NS\010b_SimpleCalculator2NS\bin\010b_SimpleCalculator2NS.dll.config
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\010b_Challenge2NS\010b_SimpleCalculator2NS\010b_SimpleCalculator2NS\bin\010b_SimpleCalculator2NS.dll
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\010b_Challenge2NS\010b_SimpleCalculator2NS\010b_SimpleCalculator2NS\bin\010b_SimpleCalculator2NS.pdb
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\010b_Challenge2NS\010b_SimpleCalculator2NS\010b_SimpleCalculator2NS\obj\Debug\010b_SimpleCalculator2NS.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\010b_Challenge2NS\010b_SimpleCalculator2NS\010b_SimpleCalculator2NS\obj\Debug\010b_SimpleCalculator2NS.dll
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\010b_Challenge2NS\010b_SimpleCalculator2NS\010b_SimpleCalculator2NS\obj\Debug\010b_SimpleCalculator2NS.pdb
